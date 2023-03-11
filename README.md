@@ -1,1 +1,1 @@
-"# first-iac-bash-script" 
+First bash IaC script written during an AWS course.
