@@ -1,1 +1,1 @@
-First bash IaC script written during an AWS course.
+Compilation with some bash scripts used as IaC.
